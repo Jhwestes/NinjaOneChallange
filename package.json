@@ -1,0 +1,10 @@
+{
+    "scripts": {
+    "test": "testcafe chrome testcafe/*.js"
+  },
+
+  "devDependencies": {
+    "testcafe": "^1.18.3"
+  }
+  
+}
