@@ -5,6 +5,12 @@ a node.js tool to automate end-to-end web testing.
 Please use the following [page model](https://devexpress.github.io/testcafe/documentation/recipes/use-page-model.html)
 when creating new tests.
 
+## Prior to run this project
+
+Run the clientapp and the serverapp on your local
+- Clientapp: https://github.com/Yastrenky/devices-clientapp
+- Serverapp: https://github.com/NinjaRMM/devicesTask_serverApp
+
 ## Install the Project Dependencies
 ```bash
 npm install
