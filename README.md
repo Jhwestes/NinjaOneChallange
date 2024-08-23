@@ -19,9 +19,7 @@ testcafe --list-browsers
 
 To run tests, run the following:
 ```bash
-testcafe chrome webdriver/suites --env=<qa/staging/production>
-
-testcafe "chrome:headless webdriver/suites" --env=<qa/staging/production> <path to file>
+npm run test
 ```
 
 Useful flags:
@@ -53,6 +51,6 @@ testcafe "chrome --autoplay-policy=no-user-gesture-required" <path to file> -L -
 
 ## Maintainers
 
-The lead maintainers on this project is:
+The lead maintainer on this project is:
 
 - Luis Francisco Dominguez Jhwestes
